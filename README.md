@@ -46,8 +46,8 @@ The system processes live webcam input, detects hand landmarks, and renders draw
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/miteshumretiya/air-canvas.git
-cd air-canvas
+git clone https://github.com/miteshumretiya/Air-Canvas-CV.git
+cd Air-Canvas-CV
 ```
 
 ### 2. Install Required Libraries
